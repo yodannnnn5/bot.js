@@ -1,0 +1,14 @@
+{
+  "name": "cod3j",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Varcte",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
